@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Para Karen Cristina 💖</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Georgia', serif;
+            background: linear-gradient(to bottom, #f8cdda, #fbd786);
+            color: #4a2c2a;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 30px;
+        }
+
+        h1 {
+            font-size: 2.8em;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-weight: normal;
+            margin-bottom: 30px;
+        }
+
+        .image {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 20px;
+            margin: 20px auto;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+        }
+
+        .message {
+            font-size: 1.2em;
+            line-height: 1.8;
+            background: rgba(255,255,255,0.85);
+            padding: 30px;
+            border-radius: 20px;
+            margin-top: 30px;
+        }
+
+        footer {
+            margin-top: 40px;
+            font-size: 1em;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Para el amor de mi vida</h1>
+        <h2>Karen Cristina Valdez Belén 💖</h2>
+
+        <!-- Imagen 1 -->
+        <img src="imagen1.jpg" alt="Nuestro amor" class="image">
+
+        <div class="message">
+            <p>
+                Karen Cristina Valdez Belén,<br><br>
+                desde que llegaste a mi vida, todo tomó un sentido distinto.
+                Tu presencia es calma para mis días difíciles y luz para mis noches silenciosas.
+                Amaré siempre la forma en que sonríes, porque en esa sonrisa encuentro mi hogar,
+                y la manera en que miras, porque en tus ojos veo un futuro que quiero construir contigo.
+                <br><br>
+                Eres más que mi novia: eres mi compañera, mi inspiración y el latido más hermoso de mi corazón.
+                A tu lado aprendí que el amor verdadero no grita, sino que cuida, protege y permanece.
+                Prometo elegirte cada día, incluso en los momentos complicados,
+                porque mi amor por ti es profundo, sincero y eterno.
+                <br><br>
+                Gracias por ser quien eres, por existir y por permitirme amarte.
+                Mi corazón es tuyo, hoy y siempre.
+            </p>
+        </div>
+
+        <!-- Imagen 2 -->
+        <img src="imagen2.jpg" alt="Siempre juntos" class="image">
+
+        <footer>
+            Con todo mi amor ❤️
+        </footer>
+    </div>
+
+</body>
+</html>
